@@ -1,0 +1,172 @@
+{
+  "audio": "/Volumes/data/dev/code/ai/pix-vl-audio-eval/002.wav",
+  "whisper_model": "small",
+  "text": "徐普提 白佛言 世尊 頗有眾生 德文如是言說章句 生實信佈佛告徐普提 莫作是說",
+  "chars": [
+    {
+      "char": "徐",
+      "pinyin": "xu",
+      "pinyin_tone": "xú"
+    },
+    {
+      "char": "普",
+      "pinyin": "pu",
+      "pinyin_tone": "pǔ"
+    },
+    {
+      "char": "提",
+      "pinyin": "ti",
+      "pinyin_tone": "tí"
+    },
+    {
+      "char": "白",
+      "pinyin": "bai",
+      "pinyin_tone": "bái"
+    },
+    {
+      "char": "佛",
+      "pinyin": "fu",
+      "pinyin_tone": "fú"
+    },
+    {
+      "char": "言",
+      "pinyin": "yan",
+      "pinyin_tone": "yán"
+    },
+    {
+      "char": "世",
+      "pinyin": "shi",
+      "pinyin_tone": "shì"
+    },
+    {
+      "char": "尊",
+      "pinyin": "zun",
+      "pinyin_tone": "zūn"
+    },
+    {
+      "char": "頗",
+      "pinyin": "po",
+      "pinyin_tone": "pō"
+    },
+    {
+      "char": "有",
+      "pinyin": "you",
+      "pinyin_tone": "yǒu"
+    },
+    {
+      "char": "眾",
+      "pinyin": "zhong",
+      "pinyin_tone": "zhòng"
+    },
+    {
+      "char": "生",
+      "pinyin": "sheng",
+      "pinyin_tone": "shēng"
+    },
+    {
+      "char": "德",
+      "pinyin": "de",
+      "pinyin_tone": "dé"
+    },
+    {
+      "char": "文",
+      "pinyin": "wen",
+      "pinyin_tone": "wén"
+    },
+    {
+      "char": "如",
+      "pinyin": "ru",
+      "pinyin_tone": "rú"
+    },
+    {
+      "char": "是",
+      "pinyin": "shi",
+      "pinyin_tone": "shì"
+    },
+    {
+      "char": "言",
+      "pinyin": "yan",
+      "pinyin_tone": "yán"
+    },
+    {
+      "char": "說",
+      "pinyin": "shuo",
+      "pinyin_tone": "shuō"
+    },
+    {
+      "char": "章",
+      "pinyin": "zhang",
+      "pinyin_tone": "zhāng"
+    },
+    {
+      "char": "句",
+      "pinyin": "ju",
+      "pinyin_tone": "jù"
+    },
+    {
+      "char": "生",
+      "pinyin": "sheng",
+      "pinyin_tone": "shēng"
+    },
+    {
+      "char": "實",
+      "pinyin": "shi",
+      "pinyin_tone": "shí"
+    },
+    {
+      "char": "信",
+      "pinyin": "xin",
+      "pinyin_tone": "xìn"
+    },
+    {
+      "char": "佈",
+      "pinyin": "bu",
+      "pinyin_tone": "bù"
+    },
+    {
+      "char": "佛",
+      "pinyin": "fu",
+      "pinyin_tone": "fú"
+    },
+    {
+      "char": "告",
+      "pinyin": "gao",
+      "pinyin_tone": "gào"
+    },
+    {
+      "char": "徐",
+      "pinyin": "xu",
+      "pinyin_tone": "xú"
+    },
+    {
+      "char": "普",
+      "pinyin": "pu",
+      "pinyin_tone": "pǔ"
+    },
+    {
+      "char": "提",
+      "pinyin": "ti",
+      "pinyin_tone": "tí"
+    },
+    {
+      "char": "莫",
+      "pinyin": "mo",
+      "pinyin_tone": "mò"
+    },
+    {
+      "char": "作",
+      "pinyin": "zuo",
+      "pinyin_tone": "zuò"
+    },
+    {
+      "char": "是",
+      "pinyin": "shi",
+      "pinyin_tone": "shì"
+    },
+    {
+      "char": "說",
+      "pinyin": "shuo",
+      "pinyin_tone": "shuō"
+    }
+  ]
+}
