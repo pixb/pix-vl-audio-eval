@@ -1,0 +1,18 @@
+{
+  "model_label": "deepseek-v4.1-flash",
+  "llm_text": "须菩提白佛言世尊颇有众生得闻如是言说章句生实信不佛告须菩提莫作是说",
+  "audio_text": "徐普提 白佛言 世尊 頗有眾生 德文如是言說章句 生實信佈佛告徐普提 莫作是說",
+  "ref_han_count": 33,
+  "char_accuracy": 0.9697,
+  "is_match": false,
+  "diffs": [
+    {
+      "kind": "wrong",
+      "ref_index": 24,
+      "ref_char": "不",
+      "llm_pinyin": "fou",
+      "audio_pinyin": "bu",
+      "audio_char": "佈"
+    }
+  ]
+}
